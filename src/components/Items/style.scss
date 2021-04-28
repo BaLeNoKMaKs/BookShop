@@ -1,0 +1,11 @@
+.extra {
+   &.content::after {
+      content: none !important;
+   }
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.grid {
+   margin: 14px 0 !important;
+}

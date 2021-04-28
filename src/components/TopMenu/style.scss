@@ -1,0 +1,9 @@
+.item {
+   &:hover {
+      cursor: pointer;
+      background: lightgrey !important;
+   }
+}
+.menu {
+   margin: 10px 0 !important;
+}
